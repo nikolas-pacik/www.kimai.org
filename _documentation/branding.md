@@ -3,7 +3,7 @@ title: Branding your Kimai
 description: Customize Kimai with your company name and logo
 ---
 
-Kimai offers the followinh configuration settings, to adapt the branding to your company.
+Kimai offers the following configuration settings, to adapt the branding to your company.
 
 ## What can be customized?
 
